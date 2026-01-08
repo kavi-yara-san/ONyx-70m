@@ -1,0 +1,27 @@
+# --- System Files ---
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# --- IDE/Editor Folders ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- Environments & Secrets (IMPORTANT) ---
+.env
+.venv
+env/
+venv/
+ENV/
+*.log
+
+# --- Common Dependencies ---
+node_modules/
+__pycache__/
+*.pyc
+bin/
+obj/
+dist/
+build/
