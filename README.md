@@ -4,7 +4,7 @@
 
 Onyx is a **small, experimental language model** built from scratch using PyTorch.
 It is designed for **research, learning, and architectural exploration**, with a focus on
-compact Transformers, custom attention, and Mixture of Experts (MoE).
+compact Transformers, multihead attention, and Mixture of Experts (MoE).
 
 ---
 
